@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MicroUSB)(type KiCad)(uri /home/ubuntu/KiCad/KiCAD-USB-Micro-B-Chinese-SMT-master/MicroUSB.pretty)(options "")(descr ""))
+  (lib (name whitepill-lib)(type KiCad)(uri ${KIPRJMOD}/whitepill-lib.pretty)(options "")(descr ""))
+)

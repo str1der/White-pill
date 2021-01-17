@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Pin)(type Legacy)(uri ${KIPRJMOD}/Pin.lib)(options "")(descr ""))
+  (lib (name WhitePill-rescue)(type Legacy)(uri ${KIPRJMOD}/WhitePill-rescue.lib)(options "")(descr ""))
+)

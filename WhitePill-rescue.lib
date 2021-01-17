@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Conn_2x3_vertical_BP-Pin
+#
+DEF Conn_2x3_vertical_BP-Pin J 0 40 Y Y 1 F N
+F0 "J" -50 300 50 H V C CNN
+F1 "Conn_2x3_vertical_BP-Pin" 50 -100 50 H V C CNN
+F2 "" 50 50 50 H I C CNN
+F3 "" 50 50 50 H I C CNN
+DRAW
+S -50 -50 -50 250 0 1 0 N
+S -50 200 -50 200 0 1 0 N
+S -50 200 -50 200 0 1 0 N
+S -50 200 -50 200 0 1 0 N
+S 0 250 -50 250 0 1 0 N
+S 0 250 150 250 0 1 0 N
+S 100 -50 -50 -50 0 1 0 N
+S 100 -50 150 -50 0 1 0 N
+S 150 -50 150 0 0 1 0 N
+S 150 250 150 0 0 1 0 N
+X ~ 1 -150 200 100 R 50 50 1 1 I
+X ~ 2 250 200 100 L 50 50 1 1 I
+X ~ 3 -150 100 100 R 50 50 1 1 I
+X ~ 4 250 100 100 L 50 50 1 1 I
+X ~ 5 -150 0 100 R 50 50 1 1 I
+X ~ 6 250 0 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
